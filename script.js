@@ -16,4 +16,4 @@ function binario (n) {
     console.log(binario)
 }
 
-binario(37)
+binario(95) // n = Número inteiro qualquer à ser transformado em binário
